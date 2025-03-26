@@ -13,3 +13,5 @@ This repository includes the exercises from a program i have done at Estácio Un
 - visao-computacional.ipynb
 
 In general the subjects were: clusters, deep learning, estimating density, machine learning classification of diabetes, natural language processing tokenization, dimensional reduction, linear regression, speech recognition and computational vision.
+
+side note: these were studies to see how things work while following the book, there are a few errors due to how old some of the tasks requirements are, some from 2020, so a few modules that were recommended on these homeworks were incompatible with my current device and i couldn't find the right ones to make it work. Sorry. But most of them do work now after some tweaking with the code and research.
